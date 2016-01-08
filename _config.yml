@@ -1,7 +1,7 @@
 name: "Julian's Webpage"
 favicon: null
-layout_spectrum: 0.6091763693839312
-typography_spectrum: 0.44660536223091185
+layout_spectrum: 1
+typography_spectrum: 0.31608
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#42157a'
+    - '#ffffff'
+    - '#010101'
+    - '#928c98'
+    - '#c7c8cd'
   brandStrength: 0.7863718224689364
-  lightness: 0.31176537717692554
-  saturation: 0.8693987515289336
-  rhythmicContrast: 0.35474450909532607
+  lightness: 0.625
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
